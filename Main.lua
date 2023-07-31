@@ -3,7 +3,7 @@
 --[Want to help this Free Model grow? Head over to our Github. Make sure you read our License!]
 ---[[https://github.com/Boopup/gGate-Scan]]
 ---[[https://github.com/sunnymangary/gGateScanner]]
--- Galatic for gates, B00PUP for conversion, and sunnymangary for sounds, and bug fixing.
+-- Galactic for gates, B00PUP for conversion, and sunnymangary for sounds, and bug fixing.
 
 
 local debounce = false
